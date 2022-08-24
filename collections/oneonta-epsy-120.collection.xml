@@ -1,34 +1,15 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="Brian Beitzel">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col11546</md:content-id>
-  <md:title>Oneonta EPSY 120</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>70bbe2cd-1399-4454-978e-8d79d8eab636</md:uuid>
-<md:slug>oneonta-epsy-120</md:slug>
-</metadata>
-
+    <md:content-id>col11546</md:content-id>
+    <md:title>Oneonta EPSY 120</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+    <md:language>en</md:language>
+    <md:uuid>70bbe2cd-1399-4454-978e-8d79d8eab636</md:uuid>
+    <md:slug>oneonta-epsy-120</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m47192"/>
-        
-      
-    
-    
-      <col:module document="m47194"/>
-        
-      
-    
+    <col:module document="m47192"/>
+    <col:module document="m47194"/>
   </col:content>
 </col:collection>
